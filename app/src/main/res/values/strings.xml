@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Your Canine Age</string>
+    <string name="app_name" translatable="false">Your Canine Age</string>
         <string name="my_dog_age">My Dog Age</string>
         <string name="how_old_are_you">How old are you?</string>
         <string name="enter_your_age">Enter your age</string>

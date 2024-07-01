@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_dog_age">Mi edad Canina</string>
+    <string name="how_old_are_you">¿Cuántos años tienes?</string>
+    <string name="enter_your_age">Ingresa tu edad</string>
+    <string name="you_must_enter_your_age">Debes ingresar tu edad</string>
+    <string name="dog_age">Tu edad canina es</string>
+    <string name="calculate_dog_age">Calcular Edad Canina</string>
+    <string name="result_dog_age_string">Tu edad canina es: %d años.</string>
+</resources>

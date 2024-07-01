@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Your Canine Age</string>
-</resources>
+        <string name="my_dog_age">My Dog Age</string>
+        <string name="how_old_are_you">How old are you?</string>
+        <string name="enter_your_age">Enter your age</string>
+        <string name="you_must_enter_your_age">You must enter your age</string>
+        <string name="dog_age">Your dog age is</string>
+        <string name="calculate_dog_age">Calculate Dog Age</string>
+        <string name="result_dog_age_string">Your dog age is: %d years old."</string>
+    </resources>
+
